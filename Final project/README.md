@@ -1,8 +1,5 @@
 # Confetti Cuisine Final Project
-
-In this repository, I have implemented final delivery of Confetti-Cuisine project in which I have gone over Node, Express, EJS, MongoDB and JSON with some front-end web based technologies. I also attached snapshots of all modules that will be used to understand every page with proper validation and flow. In order to run this project into your system, please download this repository and follow below steps that shows how to install EJS and Express into your system. Along with that, I also have deployed this project in Heroku Cloud Platform using my github repository and the The link of this project is here:
-https://smit-kakadiya.herokuapp.com/
-
+ I have implemented final delivery of Confetti-Cuisine project in which I have gone over Node, Express, EJS, MongoDB and JSON with some front-end web based technologies.
 
 ## Step 1: Initialization of Node
 ```bash
@@ -38,7 +35,7 @@ Extra Credit 2: Only authenticated and logged-in users can create, update and de
 Extra Credit 3: Connected external API into this application to check weather details of entered city. I have connected Weather Stack read-time and historical weather data API and fetched JSON responses from the server. This API provides real-time and historical weather related data like temperature, day/night, wind data, visibility etcetera. I have created my api key by creating an account in WeatherStack portal, it is open source and we can have almost 200 API calls daily for free.
 
 ## Author
-- [Smit Kakadiya] (https://smit-kakadiya.github.io)
+- Riddhi Joshi 
 
 ## Technologies
 - HTML
